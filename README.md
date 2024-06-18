@@ -1,5 +1,7 @@
 [![Twitter](https://img.shields.io/twitter/url.svg?label=Follow%20%40_mithundas&style=social&url=https%3A%2F%2Ftwitter.com%2F_mithundas)](https://x.com/_mithundas)
 
+![](./logo.png)
+
 # Balenafied Ollama Open Webui
 
 Deploy open webui with a click of a button using balena on different single board computers such as Raspberry Pi 5
