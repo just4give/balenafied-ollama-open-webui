@@ -1,0 +1,26 @@
+name: "Ollama Open WebUI"
+type: "sw.application"
+description: "Deploy open webui with a click of a button using balena on different single board computers such as Raspberry Pi 5."
+post-provisioning: >-
+
+assets:
+  repository:
+    type: "blob.asset"
+    data:
+      url: "https://github.com/just4give/balenafied-ollama-open-webui"
+  logo:
+    type: "blob.asset"
+    data:
+      url: "https://raw.githubusercontent.com/just4give/balenafied-ollama-open-webui/main/logo.png"
+data:
+  applicationEnvironmentVariables:
+    - WEBUI_AUTH: False
+
+  applicationConfigVariables:
+    - BALENA_HOST_CONFIG_start_x: 1
+    - BALENA_HOST_CONFIG_gpu_mem_256: 192
+    - BALENA_HOST_CONFIG_gpu_mem_512: 256
+    - BALENA_HOST_CONFIG_gpu_mem_1024: 448
+  defaultDeviceType: "raspberrypi5"
+  supportedDeviceTypes:
+    - "raspberrypi5"
