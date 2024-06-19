@@ -35,30 +35,28 @@ $ balena login
 $ balena push balenafied-ollama-open-webui
 ```
 
-<video width="480" height="320" controls>
-  <source src="https://github.com/just4give/balenafied-ollama-open-webui/assets/9275193/478afe55-8b94-4054-9959-cd9afc9a551c" type="video/mp4">
+<video alt="vide" src="https://github.com/just4give/balenafied-ollama-open-webui/assets/9275193/79706103-d860-49ce-9df1-48bc4c1b6c64"  width="480" height="320" >
 </video>
+
 
 <details>
   <summary>Flash the SD card with downloaded image</summary>
-<video width="480" height="320" controls>
-  <source src="https://github.com/just4give/balenafied-ollama-open-webui/assets/9275193/bb40d15e-cf24-4712-9c03-b46d53ab2839" type="video/mp4">
+<video width="480" height="320" controls src="https://github.com/just4give/balenafied-ollama-open-webui/assets/9275193/db3f580e-766d-4a3f-8b49-c924e727c273">
 </video>
 
 </details>
 
 <details>
   <summary>Download local LLM</summary>
-<video width="480" height="320" controls>
-  <source src="https://github.com/just4give/balenafied-ollama-open-webui/assets/9275193/330c368d-d42c-4f69-9ac6-e4f11182d643" type="video/mp4">
+  
+<video src="https://github.com/just4give/balenafied-ollama-open-webui/assets/9275193/f7cd4127-f7f5-432b-837e-0d93287a96af" width="480" height="320" >
 </video>
 
 </details>
 
 <details>
   <summary>Chat with local LLM</summary>
-<video width="480" height="320" controls>
-  <source src="https://github.com/just4give/balenafied-ollama-open-webui/assets/9275193/6b8fbc3b-7389-4586-bc81-5ffeb61e83e8" type="video/mp4">
-</video>
+  <video src="https://github.com/just4give/balenafied-ollama-open-webui/assets/9275193/5ec30909-f89e-4312-9be6-3594679247ab"  width="480" height="320" controls>
+  </video>
 
 </details>
