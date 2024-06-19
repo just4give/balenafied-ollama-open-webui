@@ -14,7 +14,7 @@ assets:
       url: "https://raw.githubusercontent.com/just4give/balenafied-ollama-open-webui/main/logo.png"
 data:
   applicationEnvironmentVariables:
-    - WEBUI_AUTH: False
+    - WEBUI_AUTH: "False"
 
   applicationConfigVariables:
     - BALENA_HOST_CONFIG_start_x: 1

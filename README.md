@@ -35,4 +35,30 @@ $ balena login
 $ balena push balenafied-ollama-open-webui
 ```
 
-[Sample PDF](https://arxiv.org/pdf/1702.05843)
+<video width="480" height="320" controls>
+  <source src="https://github.com/just4give/balenafied-ollama-open-webui/assets/9275193/478afe55-8b94-4054-9959-cd9afc9a551c" type="video/mp4">
+</video>
+
+<details>
+  <summary>Flash the SD card with downloaded image</summary>
+<video width="480" height="320" controls>
+  <source src="https://github.com/just4give/balenafied-ollama-open-webui/assets/9275193/bb40d15e-cf24-4712-9c03-b46d53ab2839" type="video/mp4">
+</video>
+
+</details>
+
+<details>
+  <summary>Download local LLM</summary>
+<video width="480" height="320" controls>
+  <source src="https://github.com/just4give/balenafied-ollama-open-webui/assets/9275193/330c368d-d42c-4f69-9ac6-e4f11182d643" type="video/mp4">
+</video>
+
+</details>
+
+<details>
+  <summary>Chat with local LLM</summary>
+<video width="480" height="320" controls>
+  <source src="https://github.com/just4give/balenafied-ollama-open-webui/assets/9275193/6b8fbc3b-7389-4586-bc81-5ffeb61e83e8" type="video/mp4">
+</video>
+
+</details>
