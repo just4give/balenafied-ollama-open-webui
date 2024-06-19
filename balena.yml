@@ -24,3 +24,4 @@ data:
   defaultDeviceType: "raspberrypi5"
   supportedDeviceTypes:
     - "raspberrypi5"
+version: 1.0.0
